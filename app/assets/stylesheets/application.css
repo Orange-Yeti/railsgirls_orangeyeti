@@ -1,3 +1,24 @@
 footer { margin-top: 100px; }
 table, td, th { vertical-align: middle; border: none; }
 th { border-bottom: 1px solid #DDD; }
+.gravatar {
+  height: 30px;
+  width: auto;
+}
+
+.navbar {
+  min-height: 38px;
+  background-color: #f55e55;
+}
+
+.navbar a.brand { font-size: 18px; }
+.navbar a.brand:hover {
+ color: #fff;
+ background-color: transparent;
+ text-decoration: none;
+}
+
+footer {
+  background-image: url('seigaiha.png');
+  padding: 30px 0;
+}
